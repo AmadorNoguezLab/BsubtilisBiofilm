@@ -1,1 +1,14 @@
-# Description of biofilm intracellular metabolite measurement
+🔎 Description of biofilm intracellular metabolite measurement 🔍
+
+Pellicles were grown in a 12-well polystyrene plate format at 37°C. 
+Each well contained 4.5 mL culture volume with a custom-made stainless-steel mesh (Figure 1F in the manuscript). 
+Samples were collected every 4 hours from 8 to 32 hours after inoculation (in a 1:1000 dilution) from a late exponential LB culture (OD600 ~ 1.0-1.5) into MSgg. 
+To collect each sample, the stainless steel mesh was lifted (intact pellicle on top of the mesh) and immediately submerged 
+under 1.5 mL of -20°C cold extraction solvent (40:40:20 acetonitrile:methanol:water). 
+The pellicle was passed through a syringe needle (23-gauge; 0.6mm x 25 mm) for 3-4 times to ensure exposure to the extraction solvent. 
+For the 8-hour (planktonic) sample, 25 mL of standing culture (6 wells combined) was rapidly filtered through 47-mm-diameter round hydrophilic nylon filters 
+(Millipore catalog no. HNWP04700). The filter retaining the cells was immediately submerged into 1.5 mL of -20°C cold extraction solvent. 
+The extract and cell debris were washed off from the filter and transferred to a microfuge tube. 
+All extract mixtures were subject to centrifugation at maximum speed (20817 x g) for 5 minutes at 4°C. 
+The supernatants (metabolome extracts) were stored at -20°C for analysis.
+
