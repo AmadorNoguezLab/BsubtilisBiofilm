@@ -1,1 +1,8 @@
-##empty
+Extracellular metabolites (interchangeably as supernatant/spent media)
+
+We obtained extracellular samples (spent media) by removing pellicle biofilm from the well using the stainless steel mesh and centrifuge the remaining liquid using 1.5-mL microcentrifuge tubes
+(max speed, tabletop centrifuge). We then ran the supernatant along with the pellicle in the same run on LC-MS. Data provided here in 2 biological replicates.
+
+.mzXML files are compressed in either .zip or .masscomp due to file size.
+
+To decompress .masscomp, please see https://github.com/ruocheny/MassComp for information. Thanks.
